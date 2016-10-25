@@ -36,3 +36,7 @@ so i have to configure the ssh keys for autologin in github.<br />
 hope pushing now works also. thi spart is mainly to test this.
 OK, didn't worked at the first try. i updated the git config so it changed from https to ssh.
 giving it another try.
+
+# Ok Pulling works fine.
+Now a nother test with pushing. this is a copy of the repo in a different place on my local maschine that i have cloned with gitkraken via ssh.
+hopefully this means it also pushing works now with the same key.
