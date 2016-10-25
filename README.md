@@ -30,3 +30,7 @@ GREAT!
 # Ok, something strange
 normally when i push my repo with git on the terminal it asks me for user and password.<br />
 Git-Plus plugin didn't asked, and i didn't mind. I don't know i there is a special settings where i have to put my credentials, but i dont like it taht way. it should ask me! i will try it a bit more and than search the Git-Plus issues or open a new one ;) Still love Git-Plus!
+
+# Got it. Git-Plus works with sshkeys
+so i have to configure the ssh keys for autologin in github.<br />
+hope pushing now works also. thi spart is mainly to test this.
