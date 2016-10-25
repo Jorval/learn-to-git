@@ -39,4 +39,6 @@ giving it another try.
 
 # Ok Pulling works fine.
 Now a nother test with pushing. this is a copy of the repo in a different place on my local maschine that i have cloned with gitkraken via ssh.
-hopefully this means it also pushing works now with the same key.
+hopefully this means it also pushing works now with the same key.<br />
+OK that look fine. pushing now worked. i deleted my selfgenerated sshkey again from github because iam sure its only using the one from gitkraken.<br />
+will check the config for further learning. again atom with Git-Plus is awesome, its real fun to work with these tools.
