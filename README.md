@@ -21,3 +21,8 @@ if that sucks ... i'll try the next package and so on.
 # Pimping Atom Part 2
 ok... as commiting and status doesn't worked by me as expected with Git-Plus i now installed **git-control**. Whe i open up the corresponding Feature in atom it say this is not a git project.<br />
 maybe this was also the problem with Git-Plus. don't know, still investigating this.
+
+# Back to Git Plus and now i Understand how it works.
+And God it **WORKS!**<br />
+Good have to learn how to invoke the palette and more spezific that this Palette only consist of the Git commands. Invoke it with CTRL+SHIFT+H and all the needed commands are there at your hands.<br />
+GREAT!
