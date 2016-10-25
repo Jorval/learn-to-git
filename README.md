@@ -17,3 +17,7 @@ thanks. jorval
 i found a package that let me use git commands directly from Atom without switching to my terminator session. Awesome. Installing it led's to a LOT more of these packages for Atom. Diversity is not a crime right!<br />
 so i stick with the first package i found which is called **Git-Plus**<br />
 if that sucks ... i'll try the next package and so on.
+
+# Pimping Atom Part 2
+ok... as commiting and status doesn't worked by me as expected with Git-Plus i now installed **git-control**. Whe i open up the corresponding Feature in atom it say this is not a git project.<br />
+maybe this was also the problem with Git-Plus. don't know, still investigating this.
