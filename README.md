@@ -26,3 +26,7 @@ maybe this was also the problem with Git-Plus. don't know, still investigating t
 And God it **WORKS!**<br />
 Good have to learn how to invoke the palette and more spezific that this Palette only consist of the Git commands. Invoke it with CTRL+SHIFT+H and all the needed commands are there at your hands.<br />
 GREAT!
+
+# Ok, something strange
+normally when i push my repo with git on the terminal it asks me for user and password.<br />
+Git-Plus plugin didn't asked, and i didn't mind. I don't know i there is a special settings where i have to put my credentials, but i dont like it taht way. it should ask me! i will try it a bit more and than search the Git-Plus issues or open a new one ;) Still love Git-Plus!
