@@ -10,3 +10,10 @@ Yesterday i decided it's about time!
 So if you stumbled over this project leave an issue or another form of contribution to help managing the task a git repo offers.
 
 thanks. jorval
+
+---
+
+# Pimping Atom for Github use
+i found a package that let me use git commands directly from Atom without switching to my terminator session. Awesome. Installing it led's to a LOT more of these packages for Atom. Diversity is not a crime right!<br />
+so i stick with the first package i found which is called **Git-Plus**<br />
+if that sucks ... i'll try the next package and so on.
