@@ -34,3 +34,5 @@ Git-Plus plugin didn't asked, and i didn't mind. I don't know i there is a speci
 # Got it. Git-Plus works with sshkeys
 so i have to configure the ssh keys for autologin in github.<br />
 hope pushing now works also. thi spart is mainly to test this.
+OK, didn't worked at the first try. i updated the git config so it changed from https to ssh.
+giving it another try.
