@@ -48,3 +48,6 @@ OK, deleting the selfgenratedkey was dump it uses this one for pushing. i re-add
 ---
 
 ok now i try to make some use of the webhooksystem and i need a push for it to work! ;) so this is the only prupose, also now that i use vscode with git in my daily routine, using the terminal git client becomes somewhat obsolete. this is also a good practice to see if i remember all the commands and workflow on the console correctl! as always nothing of intterest here ;) over and out!
+
+---
+ok another one, in the first attempt i sended all and everything, now trying to only react on the push event what is what i need for a project.
