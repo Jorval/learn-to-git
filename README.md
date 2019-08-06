@@ -44,3 +44,7 @@ OK that look fine. pushing now worked. i deleted my selfgenerated sshkey again f
 will check the config for further learning. again atom with Git-Plus is awesome, its real fun to work with these tools.
 
 OK, deleting the selfgenratedkey was dump it uses this one for pushing. i re-added it and now it works fine again. learning git is great, esp. making mistakes ;) no mistakes no progress right?!
+
+---
+
+ok now i try to make some use of the webhooksystem and i need a push for it to work! ;) so this is the only prupose, also now that i use vscode with git in my daily routine, using the terminal git client becomes somewhat obsolete. this is also a good practice to see if i remember all the commands and workflow on the console correctl! as always nothing of intterest here ;) over and out!
